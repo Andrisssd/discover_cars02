@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b9e7b9f-b8f6-4782-bd1c-9caf912b0243": {
+      "ProjectGuid": "6b9e7b9f-b8f6-4782-bd1c-9caf912b0243",
+      "DisplayName": "CarHomeworkProject",
+      "ColorIndex": 0
+    },
+    "6a3c4ae7-c6a7-45fa-b96e-c039eaadf90b": {
+      "ProjectGuid": "6a3c4ae7-c6a7-45fa-b96e-c039eaadf90b",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 1
+    },
+    "2c3c1210-f123-45af-8d70-b210957b1de6": {
+      "ProjectGuid": "2c3c1210-f123-45af-8d70-b210957b1de6",
+      "DisplayName": "CarHomeworkProject.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
